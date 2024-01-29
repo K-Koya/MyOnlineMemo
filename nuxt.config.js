@@ -47,5 +47,8 @@ export default {
             fs: 'empty'
         }
     }
+  },
+  generate: {
+    dir: "docs"
   }
 }
